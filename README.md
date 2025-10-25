@@ -1,3 +1,10 @@
+# I Don't Use Lite XL Anymore.
+This and my other Lite XL related things are archived because
+1. I don't want to work on them anymore
+2. I don't use Lite XL anymore.
+
+Switch to lpm, or make a fork.
+
 # Miq
 > 🐌 Packer-inspired plugin Manager for Lite XL.
 
